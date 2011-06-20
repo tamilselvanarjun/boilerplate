@@ -1,7 +1,10 @@
-
 ## TODO
 
 * Makefile
+* DEPS file generation from Gambino?
+* Rakefile
+* Gemfile
+* setup.py
 
 ## License
 
