@@ -1,7 +1,26 @@
 
+## Contents
+
+* Node boilerplate for Node libraries that you want to put on NPM (assumes you do Coffee)
+
+The following don't exist yet but feel free to fork and send me a pull request:
+
+* Node web projects (using a simple static file server)
+* Python/Tornado project
+* C project with Makefile
+* C++ Project
+* Haskell project with docs, etc.
+
 ## TODO
 
 * Makefile
+* Write a script that generates nice boilerplates
+    * Directory structure generation
+    * Templating system
+    * Personal information from a central database
+        * Name, company, license, website, email
+        * Year and other things that can be inferred about the project
+        * Project name in various forms (camelCase, hypen-ated, ALLCAPS, under_scored, uppercase) for different uses
 
 ## License
 
